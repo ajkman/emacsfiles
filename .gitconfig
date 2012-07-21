@@ -1,0 +1,7 @@
+[user]
+	name = A.J. Kuhlman
+	email = anthony.kuhlman@gmail.com
+[core]
+	editor = emacs
+[merge]
+	tool = meld
